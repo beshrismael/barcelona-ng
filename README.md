@@ -1,3 +1,3 @@
 # barcelona-ng
 
-Poseidon PrimeNG Issue Tracker
+Barcelona PrimeNG Issue Tracker
